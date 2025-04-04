@@ -21,7 +21,7 @@ This project focuses on detecting cyberbullying in online text using machine lea
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/cyberbullying-detection.git
+   git clone https://github.com/heisenberg2358/cyberbullying-detection.git
    cd cyberbullying-detection
    ```
 2. Install dependencies:
